@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Boyang Zhang's Homepage"
+#title: "Boyang Zhang's Homepage"
 excerpt: "About me"
-author_profile: false
+author_profile: True
 redirect_from: 
   - /about/
   - /about.html
