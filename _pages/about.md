@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Boyang Zhang's Homepage"
 excerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -14,3 +14,7 @@ Research Area
 ======
 My main research interests are privacy and security of machine learning, generative networks, computer vision algorithms. 
 
+
+What's New
+======
+1. [December 2021] Starting my PhD at CISPA Helmholtz Center for Information Security!
