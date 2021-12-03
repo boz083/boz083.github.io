@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my Bachelor's degree from Bowdoin College and my Master's degree from University of California San Diego. 
+I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my Bachelor's degree from Bowdoin College (2017) and my Master's degree from University of California San Diego (2019). 
 
 Research Area
 ======
