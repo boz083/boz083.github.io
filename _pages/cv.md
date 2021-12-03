@@ -9,4 +9,4 @@ redirect_from:
 {% include base_path %}
 
 
-Here is my latest [CV](https://github.com/boz083/boz083.github.io/blob/master/files/cv.pdf)
+Here is my latest [CV](/files/cv.pdf)
