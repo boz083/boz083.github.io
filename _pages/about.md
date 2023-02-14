@@ -17,5 +17,5 @@ My main research interests are privacy and security of machine learning, generat
 
 What's New
 ======
-1. [February 2023] Our paper titled "A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots" got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)! 
+1. [February 2023] One paper titled "A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots" got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)! 
 2. [December 2021] Starting my PhD at CISPA Helmholtz Center for Information Security!
