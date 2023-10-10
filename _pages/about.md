@@ -17,6 +17,6 @@ My main research interests are privacy and security of machine learning, generat
 
 What's New
 ======
-- [October 2023] One paper titled "SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models" got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
-- [February 2023] One paper titled "A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots" got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
-- [December 2021] Starting my PhD at CISPA Helmholtz Center for Information Security!
+- [10/2023] One paper titled "SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models" got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
+- [02/2023] One paper titled "A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots" got accepted in [USENIX Security 2023](https://www.usenix.org/conference/usenixsecurity23)!
+- [12/2021] Starting my PhD at CISPA Helmholtz Center for Information Security!
