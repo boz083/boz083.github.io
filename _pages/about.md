@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my Bachelor's degree from Bowdoin College (2017) and my Master's degree from University of California San Diego (2019). 
+I am currently a PhD student at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), advised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my Bachelor's degree from [Bowdoin College](https://www.bowdoin.edu/) (2017) and my Master's degree from [University of California San Diego](https://ucsd.edu/) (2019). 
 
 Research Area
 ======
 - Trustworthy Machine Learning (Security, Privacy, and Safety)
 - Multimodal Generative Models
-- Autonomous Agents
+- Responsible Autonomous Agents
 
 
 What's New
