@@ -12,8 +12,8 @@ I am currently a PhD student at [CISPA Helmholtz Center for Information Security
 
 Research Area
 ======
-- Trustworthy Machine Learning (Security, Privacy and Safety)
-- Multi-Modal Generative Models
+- Trustworthy Machine Learning (Security, Privacy, and Safety)
+- Multimodal Generative Models
 - Autonomous Agents
 
 
