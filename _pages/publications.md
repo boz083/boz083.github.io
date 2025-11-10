@@ -4,16 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 <style type="text/css" rel="stylesheet">
 .btn--pdf {
@@ -56,6 +47,8 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/pdf/2509.25525" class="btn--pdf" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2509.25525" class="btn--arxiv" target="_blank">arxiv</a>
 
+<h2 id='2024'>2024</h2>
+
 ### <span style="color:rgb(39, 117, 182)">The Death and Life of Great Prompts: Analyzing the Evolution of LLM Prompts from the Structural Perspective</span>
 <font size="3">Yihan Ma, Xinyue Shen, Yixin Wu, <b>Boyang Zhang</b>, Michael Backes, Yang Zhang;
 <i>EMNLP 2024</i></font>
@@ -73,6 +66,8 @@ a { TEXT-DECORATION:none }
 <i>Arxiv</i></font>
 <a href="https://arxiv.org/pdf/2311.14685" class="btn--pdf" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2311.14685" class="btn--arxiv" target="_blank">arxiv</a>
+
+<h2 id='2023'>2023</h2>
 
 ### <span style="color:rgb(39, 117, 182)">A Plot is Worth a Thousand Words: Model Information Stealing Attacks via Scientific Plots</span>
 <font size="3"><b>Boyang Zhang</b>, Xinlei He, Yun Shen, Tianhao Wang, Yang Zhang;
