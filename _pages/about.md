@@ -19,6 +19,7 @@ Research Area
 
 What's New
 ======
+- [08/2025] Our paper titled "Defeating Cerberus: Privacy-Leakage Mitigation in Vision Language Models" got accepted in [EACL 2026](https://2026.eacl.org/)!
 - [08/2025] Our paper titled "Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification" got accepted in [EMNLP 2025](https://2025.emnlp.org/)!
 - [05/2025] I will serve on the Program Committee of [AISec 2025](https://aisec.cc/).
 - [11/2024] I will give a talk at [European Cyber Week 2024](https://www.european-cyber-week.eu/).
