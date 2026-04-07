@@ -39,6 +39,14 @@ a { TEXT-DECORATION:none }
 }
 </style>
 
+<h2 id='2026'>2026</h2>
+
+### <span style="color:rgb(39, 117, 182)">Defeating Cerberus: Concept-Guided Privacy-Leakage Mitigation in Multimodal Language Models</span>
+<font size="3"><b>Boyang Zhang</b>, Istemi Ekin Akkus, Ruichuan Chen, Alice Dethise, Klaus Satzke, Ivica Rimac, Yang Zhang;
+<i>EACL Findings 2026</i></font>
+<a href="https://aclanthology.org/2026.findings-eacl.154.pdf" class="btn--pdf" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2509.25525" class="btn--arxiv" target="_blank">arxiv</a>
+
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification</span>
@@ -46,12 +54,6 @@ a { TEXT-DECORATION:none }
 <i>EMNLP 2025</i></font>
 <a href="https://aclanthology.org/2025.emnlp-main.1771.pdf" class="btn--pdf" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2407.20859" class="btn--arxiv" target="_blank">arxiv</a>
-
-### <span style="color:rgb(39, 117, 182)">Defeating Cerberus: Concept-Guided Privacy-Leakage Mitigation in Multimodal Language Models</span>
-<font size="3"><b>Boyang Zhang</b>, Istemi Ekin Akkus, Ruichuan Chen, Alice Dethise, Klaus Satzke, Ivica Rimac, Yang Zhang;
-<i>Arxiv</i></font>
-<a href="https://arxiv.org/pdf/2509.25525" class="btn--pdf" target="_blank">pdf</a>
-<a href="https://arxiv.org/abs/2509.25525" class="btn--arxiv" target="_blank">arxiv</a>
 
 <h2 id='2024'>2024</h2>
 
