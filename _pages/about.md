@@ -26,4 +26,3 @@ What's New
 - [09/2024] Our paper titled “The Death and Life of Great Prompts: Analyzing the Evolution of LLM Prompts from the Structural Perspective" got accepted in [EMNLP 2024](https://2025.emnlp.org/)!
 - [06/2024] I started my research internship at [Nokia Bell Labs](https://www.nokia.com/bell-labs/), working on the privacy of multi-modal LLMs.
 - [01/2024] I will serve as a reviewer for [IEEE TPAMI 2024](https://www.computer.org/csdl/journal/tp).
-- [10/2023] Our paper titled "SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models" got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
