@@ -46,6 +46,7 @@ a { TEXT-DECORATION:none }
 <i>EACL Findings 2026</i></font>
 <a href="https://aclanthology.org/2026.findings-eacl.154.pdf" class="btn--pdf" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2509.25525" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/Nokia-Bell-Labs/cerberus" class="btn--code" target="_blank">code</a>
 
 <h2 id='2025'>2025</h2>
 
